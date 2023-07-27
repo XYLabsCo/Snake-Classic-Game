@@ -1,5 +1,7 @@
 # Classic Snake Game
 
+![alt text](https://i.ibb.co/DtGW2sM/screen-capture-1.gif)
+
 This repository contains a simple implementation of the classic Snake game in HTML, CSS, and JavaScript. You control a snake which grows by eating apples that randomly appear in the game area. The game speeds up as the score increases and the game ends if the snake touches itself or the border of the game area.
 
 ## Overview
